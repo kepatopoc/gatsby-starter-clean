@@ -19,7 +19,7 @@ import React from 'react'
             Hello World!
           </h1>
           <p>Welcome to your new clean Gatsby site</p>
- +      <p>Welcome to your new clean Gatsby site</p>
+    <p>Welcome to your new clean Gatsby site</p>
         </div>
       )
     }
